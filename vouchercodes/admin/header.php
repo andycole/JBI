@@ -1,0 +1,2 @@
+<TABLE WIDTH='100%' BGCOLOR='#D5E3E9' BORDER='0' CELLPADDING='3'><TR><TD><A HREF='index.php'>Home</A> | <A HREF='viewcodes.php'>View Vouchers</A> | <A HREF='viewmerchants.php'>Edit Merchant Info</A> | <A HREF='../index.php' target='_BLANK'>View Voucher Site</A></TD><TR></TABLE>
+<br />

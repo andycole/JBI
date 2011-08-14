@@ -13,7 +13,7 @@ if( isset($_POST['payload']) ) {
 	echo 'failed';
 }
 ?>
-<form action="github_post_receive.php" name="test">
+<form action="github_post_receive.php" name="test" method="post">
 	<input type="hidden" name="payload" id="payload" value="true" />
 	<input type="submit" name="submit" />
 </form>

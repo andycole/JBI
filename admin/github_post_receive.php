@@ -7,7 +7,7 @@ if ( $_POST['payload'] ) {
 }
 
 if ( $_POST['test'] ) {
-  shell_exec( 'cd /kunden/homepages/30/d170410374/htdocs/JBI/ && git reset --hard HEAD && git pull' );
+  shell_exec( 'git reset --hard HEAD && git pull' );
 }
 
 

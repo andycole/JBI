@@ -13,5 +13,6 @@ if ( $_POST['test'] ) {
 
 ?>
 <form action="/admin/github_post_receive.php">
-	<input type="text" name="test" id="test"  />	
+	<input type="text" name="test" id="test"  />
+	<input type="submit" />	
 </form>
